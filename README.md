@@ -1,7 +1,13 @@
 # ShellAppSample
 Xamarin Forms - Menu - Shell Form App with FontAwesome Icons.
 
-![alt text](https://github.com/DgarciarDev/ShellAppSample/blob/master/ShellAppSample/ShellAppSample/Sample.gif)
+I made a very simple sample that I did taken a code base from
+https://www.thewissen.io/introducing-xamarin-ui-july
+in this post, Steven provides multiple samples of UI in Xamarin Forms.
+
+<p align="center">
+  <img src="https://github.com/DgarciarDev/ShellAppSample/blob/master/ShellAppSample/ShellAppSample/Sample.gif" width="250" title="hover text">
+</p>
 
 ## Using FontImageSource
 
