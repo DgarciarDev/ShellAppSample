@@ -9,6 +9,11 @@ in this post, Steven provides multiple samples of UI in Xamarin Forms.
   <img src="https://github.com/DgarciarDev/ShellAppSample/blob/master/ShellAppSample/ShellAppSample/Sample.gif" width="250" title="hover text">
 </p>
 
+Go to post in Medium:
+
+https://medium.com/p/c545f642d3a0
+
+
 ## Using FontImageSource
 
 Finally, I change the "icon=" property with <ShellContent.Icon>tag and create a <FontImageSource> tag and include those parameters that I need: 
