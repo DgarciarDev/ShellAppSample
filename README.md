@@ -1,6 +1,8 @@
 # ShellAppSample
 Xamarin Forms - Menu - Shell Form App with FontAwesome Icons.
 
+![alt text](http://Sample.gif)
+
 ## Using FontImageSource
 
 Finally, I change the "icon=" property with <ShellContent.Icon>tag and create a <FontImageSource> tag and include those parameters that I need: 
